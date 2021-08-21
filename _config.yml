@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/profile_image/profile.jpg"
   bio              : "신소재공학과 기계공학을 거쳐 AI를 향해서."
   location         : "Seoul, Korea"
-  email            : 'idealty90@gmail.com'
+  email            : #'idealty90@gmail.com'
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
