@@ -24,6 +24,10 @@ toc_icon: "bars" # 아이콘 설정
 toc_sticky: true #목차를 스크롤과 내릴것인지
 toc_label: "목차"
 
+author_profile: true
+sidebar:
+  nav:  "main"
+
 ---
 비전 쪽을 공부하다가 한 번 직접 해보는게 좋을 것 같아서 캐글에서 진행중이었던
 [SIIM-FISABIO-RSNA COVID-19 Detection](https://www.kaggle.com/c/siim-covid19-detection)(현재 종료)에 참여해 봤다. ~~참여만...~~  
